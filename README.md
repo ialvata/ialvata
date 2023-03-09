@@ -9,7 +9,7 @@ I'm a Machine Learning Engineer / Data Scientist, PhD in Applied Mathematics and
   - Spatial Statistics
   - Deep Learning
 
-### Feel free to connect with me for any suggestions you may have:
+### Feel free to connect with me:
 - [LinkedIn](https://www.linkedin.com/in/ivo-tavares-76781b1b9)
 
 ### Frameworks:
