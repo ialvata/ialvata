@@ -1,5 +1,5 @@
-- Machine Learning Engineer / Data Scientist 
-- PhD in Applied Mathematics and Economics (Statistcs).
+🤖🧠💻 Machine Learning Engineer / Data Scientist 
+🎓 PhD in Applied Mathematics and Economics (Statistcs).
 
 - I'm interested in the following topics:
   - Causal Inference
