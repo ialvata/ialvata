@@ -1,4 +1,4 @@
-🤖🧠💻 Machine Learning Engineer / Data Scientist
+💻 Machine Learning Engineer / Data Scientist
 
 🎓 PhD in Applied Mathematics and Economics (Statistcs).
 
