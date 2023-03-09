@@ -22,7 +22,7 @@
 <code><img height="20"  alt="R" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 ### Tools
 <code><img height="32" alt="Pandas" src="https://fr.wikipedia.org/wiki/Pandas#/media/Fichier:Pandas_mark.svg"></code>
-<code><img height="32" alt="Elasticsearch" src="https://fr.wikipedia.org/wiki/Elasticsearch#/media/Fichier:Elasticsearch_logo.svg"></code>
+<code><img height="32" alt="Elasticsearch" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/512px-Elasticsearch_logo.svg.png"></code>
 <code><img height="32" alt="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="32"  alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20"  alt="AWS" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
