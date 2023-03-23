@@ -10,6 +10,7 @@
   - Panel Data
   - Spatial Statistics
   - Deep Learning
+  - MLOps
 
 ### Feel free to connect with me:
 - [LinkedIn](https://www.linkedin.com/in/ivo-tavares-76781b1b9)
