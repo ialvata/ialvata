@@ -23,8 +23,13 @@
 <code><img height="32"  alt="R" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 ### Tools
 <code><img height="32" alt="Pandas" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/449px-Pandas_mark.svg.png"></code>
+<code><img height="32" alt="HuggingFace"
+src="https://github.com/ialvata/ialvata/assets/110241614/cdf3882a-74cd-4b8c-9941-e869f5b07215"></code>
+
 <code><img height="32" alt="TensorFlow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="32" alt="Elasticsearch" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/512px-Elasticsearch_logo.svg.png"></code>
+<code><img height="32" alt="FastAPI"
+src="https://github.com/ialvata/ialvata/assets/110241614/672b467b-2d66-4623-a0c3-d0900490c0d2"></code>
 <code><img height="32" alt="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="32"  alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="32"  alt="AWS" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
