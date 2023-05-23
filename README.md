@@ -14,6 +14,7 @@
 
 ### Feel free to connect with me:
 - [LinkedIn](https://www.linkedin.com/in/ivo-tavares-76781b1b9)
+- [GitHub - IavTavares](https://github.com/IavTavares)
 
 ### Languages:
 <code><img height="32" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
