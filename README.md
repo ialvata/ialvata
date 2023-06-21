@@ -6,7 +6,7 @@
   
   - NLP
   - Econometrics
-  - Deep Learning
+  - Machine Learning
   - MLOps
   - Time Series
   - Panel Data
