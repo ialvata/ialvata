@@ -3,14 +3,16 @@
 🎓 PhD in Applied Mathematics and Economics (Statistics).
 
 - I'm interested in the following topics:
-  - Causal Inference
+  
   - NLP
   - Econometrics
-  - Time Series
-  - Panel Data
-  - Spatial Statistics
   - Deep Learning
   - MLOps
+  - Time Series
+  - Panel Data
+  - Causal Inference
+  - Spatial Statistics
+  
 
 ### Feel free to connect with me:
 - [LinkedIn](https://www.linkedin.com/in/ivo-tavares-76781b1b9)
