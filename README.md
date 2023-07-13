@@ -38,7 +38,7 @@ src="https://github.com/ialvata/ialvata/assets/110241614/672b467b-2d66-4623-a0c3
 <code><img height="32"  alt="AWS" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
 <code><img height="32"  alt="Kubernetes" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/kubernetes/kubernetes.png"></code>
 
-The statistics, in the immediately below graph, lack my contributions to private repos to which I don't have access anymore.
+The statistics, in the immediately below graph, lack my contributions to private repos (some of which I don't have access anymore).
 
 <p align="left"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ialvata&hide=java,html,tex&theme=react&bg_color=1F222E&title_color=5df889&icon_color=ccf85d&hide_border=true&langs_count=4)" alt="ialvata" />
 
