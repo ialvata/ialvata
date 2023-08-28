@@ -9,6 +9,7 @@
   - Machine Learning
   - MLOps
   - Time Series
+  - Ethics/Fairness/Privacy
   - Panel Data
   - Causal Inference
   - Spatial Statistics
