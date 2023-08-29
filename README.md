@@ -5,11 +5,11 @@
 - I'm interested in the following topics:
   
   - NLP
-  - Econometrics
   - Machine Learning
-  - MLOps
   - Time Series
+  - MLOps
   - Ethics/Fairness/Privacy
+  - Econometrics
   - Panel Data
   - Causal Inference
   - Spatial Statistics
