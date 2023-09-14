@@ -9,10 +9,7 @@
   - Time Series
   - MLOps
   - Ethics/Fairness/Privacy
-  - Econometrics
-  - Panel Data
   - Causal Inference
-  - Spatial Statistics
   
 
 ### Feel free to connect with me:
