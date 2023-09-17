@@ -5,7 +5,6 @@
 - I'm interested in the following topics:
   
   - NLP
-  - Machine Learning
   - Time Series
   - MLOps
   - Ethics/Fairness/Privacy
