@@ -1,4 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73B3B&random=false&width=435&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://github.com/ialvata/ialvata"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=1000&color=F73B3B&random=false&width=435&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></a>
+</p>
 
 💻 Machine Learning Engineer / Data Scientist
 
@@ -13,9 +15,10 @@
   - Causal Inference
   
 
-### Feel free to connect with me:
-- [LinkedIn](https://www.linkedin.com/in/ivo-tavares-76781b1b9)
-- [GitHub - IavTavares](https://github.com/IavTavares)
+<h2 align="center"> Feel free to connect with me:</h2>
+<p align="center">
+    <a href="https://www.linkedin.com/in/ivo-tavares-76781b1b9/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?logo=Linkedin&logoColor=white"></a>
+</p>
 
 ### Languages:
 <code><img height="32" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
