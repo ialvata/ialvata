@@ -15,7 +15,7 @@
   - Causal Inference
   
 
-<h2 align="center"> Feel free to connect with me:</h2>
+<h2 align="center">Feel free to connect with me</h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/ivo-tavares-76781b1b9/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?logo=Linkedin&logoColor=white"></a>
 </p>
