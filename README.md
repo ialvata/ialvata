@@ -2,11 +2,14 @@
   <a href="https://github.com/ialvata/ialvata"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=1000&color=F73B3B&random=false&width=435&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></a>
 </p>
 
+ 
+
+<h3 align="left"><code>getent group | grep ivo</code></h3>
 💻 Machine Learning Engineer / Data Scientist
 
 🎓 PhD in Applied Mathematics and Economics (Statistics).
 
-- I'm interested in the following topics:
+<h3 align="left">Interests</h3>
   
   - NLP
   - Time Series
