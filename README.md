@@ -11,8 +11,7 @@
   - NLP
   - Time Series
   - MLOps
-  - Ethics/Fairness/Privacy
-  - Causal Inference
+  - App Development
   
 
 <h2 align="center">Feel free to connect with me</h2>
