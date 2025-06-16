@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/ialvata/ialvata"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=1000&color=F73B3B&random=false&width=435&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></a>
+  <a href="https://github.com/ialvata/ialvata"><img src="https://readme-typing-svg.demolab.com/?%20%20%20%20font=Fira+Code&pause=1000&color=F73B3B&random=false&width=435&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></a>
 </p>
 
  
