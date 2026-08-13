@@ -4,7 +4,7 @@
 
  
 
-<h3 align="left"><code>getent group | grep ivo</code></h3>
+<h3 align="left"><code>getent passwd ivo</code></h3>
 💻 Machine Learning Engineer / Data Scientist
 
 🎓 PhD in Applied Mathematics and Economics (Statistics).
