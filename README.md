@@ -5,7 +5,7 @@
  
 
 <h3 align="left"><code>getent passwd ivo</code></h3>
-💻 Machine Learning Engineer / Data Scientist
+💻 System Administrator / Machine Learning Engineer
 
 🎓 PhD in Applied Mathematics and Economics (Statistics).
 
