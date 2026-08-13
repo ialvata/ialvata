@@ -11,8 +11,8 @@
 
 <h3 align="left">Interests</h3>
   
-  - NLP
-  - Time Series
+  - System Administration
+  - Kubernetes
   - MLOps
   - App Development
   
